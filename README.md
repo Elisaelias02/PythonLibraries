@@ -1,2 +1,2 @@
 # PythonLibraries
-Librerías de Python para Ciberseguridad
+Librerías de Python para Hacking Etico
